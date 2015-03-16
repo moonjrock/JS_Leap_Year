@@ -1,10 +1,10 @@
-<h1>Leap Year</h1>
+<h1>Leap Year Detector</h1>
 <p>This simple JS application using Behavior Driven Development, tells you whether or not the input year, is a leap year.</p>
 
-<h1>INSTRUCTIONS</h1>
+<h2>INSTRUCTIONS</h2>
 <p>Open the "leap-year.html" in your web browser</p>
 
-<h1>KNOWN BUGS</h1>
+<h2>KNOWN BUGS</h2>
 <p>None</p>
 
 Author: Alan Moon (https://github.com/moonjrock)
